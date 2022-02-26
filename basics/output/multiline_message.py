@@ -1,3 +1,5 @@
 print("system damaged")
-print("system reebot has been iniciated")
+print("system reboot has been iniciated")
 print("system down")
+print("rebooting system")
+print("rebooting output motors")
